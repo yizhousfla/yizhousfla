@@ -1,5 +1,3 @@
-Hello, 👋
-
 # Introduction
 
 I am an associate professor of finance at San Francisco State University (SFSU). My research interests are Empirical Asset Pricing, Derivatives, Credit Risk, Default Risk, Volatility, and Art and Finance.
